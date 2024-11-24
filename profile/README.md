@@ -1,6 +1,6 @@
 # Welcome to CodeAcme
 
-![CodeAcme Logo](link-to-your-logo.png)
+![CodeAcme Logo](../media/logo.png)
 
 Welcome to the official GitHub organization of CodeAcme, where innovation meets efficiency. At CodeAcme, we are dedicated to building high-quality software solutions that empower businesses and enrich user experiences. Our team of passionate developers is committed to pushing the boundaries of technology and open-source collaboration.
 
